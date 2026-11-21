@@ -1,4 +1,5 @@
-data/
+04_Dataset/*.xlsx
+04_Dataset/*.zip
 *.zip
 *.xlsx
 .ipynb_checkpoints/

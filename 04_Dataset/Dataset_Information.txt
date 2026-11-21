@@ -1,0 +1,4 @@
+DATASET: UCI Online Retail Dataset
+SOURCE: https://archive.ics.uci.edu/dataset/352/online+retail
+SCALE: 541,909 transactions across 38 countries (Dec 2010 - Dec 2011)
+DESCRIPTION: All transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail.
