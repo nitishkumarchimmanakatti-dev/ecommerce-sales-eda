@@ -10,6 +10,12 @@
 
 ---
 
+
+---
+
+## 📁 Repository & Directory Structure
+
+
 ## 📌 Project Overview
 An end-to-end Exploratory Data Analysis (EDA) investigating **541,909 international transactions** from a UK-based online retail business operating between December 2010 and December 2011. 
 
